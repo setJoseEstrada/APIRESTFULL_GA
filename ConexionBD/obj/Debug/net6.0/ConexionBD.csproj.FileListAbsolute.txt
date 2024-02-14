@@ -1,0 +1,14 @@
+D:\Repos\GA Solution\APIREST\ConexionBD\bin\Debug\net6.0\ConexionBD.deps.json
+D:\Repos\GA Solution\APIREST\ConexionBD\bin\Debug\net6.0\ConexionBD.runtimeconfig.json
+D:\Repos\GA Solution\APIREST\ConexionBD\bin\Debug\net6.0\ConexionBD.dll
+D:\Repos\GA Solution\APIREST\ConexionBD\bin\Debug\net6.0\ConexionBD.pdb
+D:\Repos\GA Solution\APIREST\ConexionBD\obj\Debug\net6.0\ConexionBD.csproj.AssemblyReference.cache
+D:\Repos\GA Solution\APIREST\ConexionBD\obj\Debug\net6.0\ConexionBD.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\GA Solution\APIREST\ConexionBD\obj\Debug\net6.0\ConexionBD.AssemblyInfoInputs.cache
+D:\Repos\GA Solution\APIREST\ConexionBD\obj\Debug\net6.0\ConexionBD.AssemblyInfo.cs
+D:\Repos\GA Solution\APIREST\ConexionBD\obj\Debug\net6.0\ConexionBD.csproj.CoreCompileInputs.cache
+D:\Repos\GA Solution\APIREST\ConexionBD\obj\Debug\net6.0\ConexionBD.dll
+D:\Repos\GA Solution\APIREST\ConexionBD\obj\Debug\net6.0\refint\ConexionBD.dll
+D:\Repos\GA Solution\APIREST\ConexionBD\obj\Debug\net6.0\ConexionBD.pdb
+D:\Repos\GA Solution\APIREST\ConexionBD\obj\Debug\net6.0\ConexionBD.genruntimeconfig.cache
+D:\Repos\GA Solution\APIREST\ConexionBD\obj\Debug\net6.0\ref\ConexionBD.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "uEWHtvOZuYvHB6EY8XiOo1/Fm3NmfyVQ8fYPvEP4MB4=",
+  "Source": "APIREST",
+  "BasePath": "_content/APIREST",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
